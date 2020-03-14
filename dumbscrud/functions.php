@@ -10,7 +10,7 @@ function query($query)
 	$result = mysqli_query($conn, $query);
 
 
-	//proses pengambilan data dari table distro
+	//proses pengambilan data 
 	$rows = []; //tempat menimpan data(kosong)
 	while ($row = mysqli_fetch_assoc($result)) { //mengambil data nya dari rows
 		$rows[] = $row; //menimpan data satu2 ke variable row 		
