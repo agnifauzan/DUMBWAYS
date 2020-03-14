@@ -12,7 +12,7 @@ $distro = query("SELECT * FROM dumbs");
 <html>
 
 <head>
-	<title>distro</title>
+	<title>DUMBWAYS</title>
 </head>
 
 <body>
