@@ -36,7 +36,7 @@ if (isset($_POST["submit"])) {
 </head>
 
 <body>
-	<h1>Tambah data Baju</h1>
+	<h1>Tambah data ARTIKEL</h1>
 	<form action="" method="post">
 		<ul>
 			<br>
